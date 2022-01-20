@@ -1,0 +1,21 @@
+{
+  "title": "admin",
+  "version": "1.2 secondary installment",
+  "dateEpoch": 1642638058,
+  "dateMonth": "january",
+  "dateYear": 2022,
+  "dateDate": "21/01/2022",
+  "progress": "5.6%",
+  "aim": "Decipher the message!",
+  "expiry": "Nov. 2022"
+  "will_renew": true,
+  "prizeInfo": {
+    1: "769fa16f9585161b91a16739c0e9d169ddb690c6",
+    2: "YJUXMZNIMDIYZJKZNTRKNWYYNDHJZJHJZDM3MTMXZGY="
+  },
+  "clueInfo": {
+    "clue.this": "85845C855f8123C64051007C7B5C4C4C",
+    "clue.this.clue_requires_decoding": true,
+  },
+  "set": true
+}
